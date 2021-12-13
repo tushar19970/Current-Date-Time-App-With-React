@@ -1,0 +1,12 @@
+body {
+  background-color:black;
+  color:blue;
+  text-align:center;
+  margin: 0;
+}
+
+body :hover{
+  background-color: white;
+}
+
+
